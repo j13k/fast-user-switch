@@ -6,7 +6,7 @@ It has been adapted from a workflow described in a CNET article, [How to create 
 
 ## Installation instructions 
 
-1. Clone the repository, or [download](https://github.com/j13k/fast-user-switch/releases/latest) and unpack an archive.
+1. Clone the repository, or [download](https://github.com/j13k/fast-user-switch/archive/v0.1.zip) and unpack an archive.
 1. Open the _Fast User Switch.workflow_ package and select the option to install it as a service. (Feel free to open the workflow in Automator first to check out what it does—this is probably a good idea with any third-party workflows.) 
 1. Open the Keyboard pane in System Preferences and select the Shortcuts tab. Select Services from the list in the left pane of the tab, then look for the _Fast User Switch_ entry under General, ensuring the associated checkbox is selected.
 1. Double-click in the area to the right of the entry, then press the desired key combination to be used to activate the user switch. (For what it’s worth, Ctrl-Option-Command + U seems to work well as a global hotkey combination.)
